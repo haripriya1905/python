@@ -18,4 +18,4 @@ public class SumofGivenIntegers {
 		System.out.println(sum);		
 	}
 }
-© 2019 GitHub, Inc.
+
